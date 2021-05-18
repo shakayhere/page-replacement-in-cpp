@@ -1,0 +1,21 @@
+7   :   | 7 | | - | | - | 
+0   :   | 7 | | 0 | | - | 
+1   :   | 7 | | 0 | | 1 | 
+2   :   | 2 | | 0 | | 1 | 
+0   :   NO Page fault
+3   :   | 2 | | 0 | | 3 | 
+0   :   NO Page fault
+4   :   | 2 | | 4 | | 3 | 
+2   :   NO Page fault
+3   :   NO Page fault
+0   :   | 2 | | 0 | | 3 | 
+3   :   NO Page fault
+2   :   NO Page fault
+1   :   | 2 | | 0 | | 1 | 
+2   :   NO Page fault
+0   :   NO Page fault
+1   :   NO Page fault
+7   :   | 7 | | 0 | | 1 | 
+0   :   NO Page fault
+1   :   NO Page fault
+
