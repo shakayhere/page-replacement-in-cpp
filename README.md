@@ -4,9 +4,9 @@ This repository contains implementation of page replacement algorithms (FIFO, Op
 ## Getting Started
 
 The following page replacement algorithms have been implemented in the code.
-1 - FIFO algorithm
-2 - Optimal algorithm
-3 - Least Frequently Used (LFU) Algorithm
+1. FIFO algorithm
+2. Optimal algorithm
+3. Least Frequently Used (LFU) Algorithm
 
 In the input file `input.txt` you will find the reference string, each page on a different line. When user starts your application he/she will be asked to choose which algorithm to use. Then the application will ask how many frames to use (between 3 to 6). Based upon the selected choice, the code will execute the algorithm over the reference string and store the output in `output_[Algorithm-Name].txt` file. Following is an example run:
 
