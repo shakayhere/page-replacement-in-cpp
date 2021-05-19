@@ -209,7 +209,7 @@ void optimalRule(int myRef[], int myFrame, int size)
 
 
 //
-// LFU Rule (not available)
+// LFU Rule
 //
 
 void lfuRule(int myRef[], int myFrame, int size)
