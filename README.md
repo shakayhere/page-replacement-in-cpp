@@ -57,7 +57,7 @@ ___Applying Page Replacement Algorithm___
 You must have `g++` compiler and `make` installed on your system before testing.
 
 
-## Install G++ and make on Ubuntu
+## Install 'g++' and 'make' on Ubuntu
 Start by updating the packages list:
 ```
 sudo apt update
