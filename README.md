@@ -8,7 +8,15 @@ The following page replacement algorithms have been implemented in the code.
 2. Optimal algorithm
 3. Least Frequently Used (LFU) Algorithm
 
-In the input file `input.txt` you will find the reference string, each page on a different line. When user starts your application he/she will be asked to choose which algorithm to use. Then the code will ask how many frames to use (between 3 to 6). Based upon the selected choice, the code will execute the algorithm over the reference string and store the output in `output_[Algorithm-Name].txt` file.  An example input reference string `input.txt` and it's relevant output files (with 3 frames to use), is attached with the repository. Following is an example run:
+In the input file `input.txt` you will find the reference string, each page on a different line. When user starts your application he/she will be asked to choose which algorithm to use. Then the code will ask how many frames to use (between 3 to 6). Based upon the selected choice, the code will execute the algorithm over the reference string and store the output in `output_[Algorithm-Name].txt` file.  
+
+<br />
+<p align="center">
+<img src="images/PageReplacement.jpg" alt="fat-table-image" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" text-align="center">
+</p>
+<br />
+
+An example input reference string `input.txt` and it's relevant output files (with 3 frames to use), is attached with the repository. Following is an example run:
 
 ```
 Size of reference string is: 20
