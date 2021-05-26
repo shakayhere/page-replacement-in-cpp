@@ -80,13 +80,13 @@ To validate that the G++ compiler is successfully installed, use the `g++ --vers
 g++ --version
 ```
 
-## How to Build and Install
+## How to Build and Run
 Just run `make` from the root of this repository. A binary called `exec.out` will be produced. To run this file, enter the following:
 ```
 ./exec.out
 ```
 
 ## License
-Copyright (c) 2021 Ahmad Ashfaq
+Copyright (c) 2021 shakayhere
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this code, to deal in any Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
